@@ -8,7 +8,7 @@ Esse projeto foi criado para estudo do React Native.
 
 
 ## Funcionalidades
-A principai funcionalidade do projeto é:
+A principal funcionalidade do projeto é:
 
 ✅ Gera até 10 frases motivacionais e inspiradoras a cada clique. </br>
 ✅ Aplicativo intuitivo apesar de simples.
